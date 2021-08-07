@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# 動作テスト
+
 def test_if_while():
     num = 0
 
