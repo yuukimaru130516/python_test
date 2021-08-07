@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 # importのテスト
 
 import numpy as np
@@ -19,6 +19,7 @@ mat2 = np.matrix(arr1)
 print(mat2)
 
 # 行列の要素の取得
+print("0行、1列目の値を取得する")
 print(mat[0, 1])
 
 mat[0, 1] = 100
